@@ -2,10 +2,15 @@
 Sistemas Distribuídos - C81
 
 Paulo Roberto Mascaro Junior RA:2210045
+
 Daniel Ghinato Seidenthal RA:2346370
+
 Igor Gustavo Mainardes RA:2389495
+
 Pedro Henrique da Rocha RA:2346575
+
 Felipe Teodoro da Silva RA:2266369
+
 
 # Cálculo de Pi Paralelo e Sequencial com Gráficos
 
@@ -18,8 +23,8 @@ Certifique-se de ter o Python instalado em sua máquina. Você pode baixar o Pyt
 ## Dependências
 
 As bibliotecas necessárias para executar o código são:
-- [pandas](http://_vscodecontentref_/0)
-- [matplotlib](http://_vscodecontentref_/1)
+- [pandas].
+- [matplotlib]
 
 Você pode instalá-las manualmente usando:
 ```sh
