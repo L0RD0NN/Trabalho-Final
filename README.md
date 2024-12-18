@@ -23,8 +23,8 @@ Certifique-se de ter o Python instalado em sua máquina. Você pode baixar o Pyt
 ## Dependências
 
 As bibliotecas necessárias para executar o código são:
-- [pandas].
-- [matplotlib]
+- pandas.
+- matplotlib.
 
 Você pode instalá-las manualmente usando:
 ```sh
