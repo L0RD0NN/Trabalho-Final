@@ -12,7 +12,7 @@ Pedro Henrique da Rocha RA:2346575
 Felipe Teodoro da Silva RA:2266369
 
 
-# Cálculo de Pi Paralelo e Sequencial com Gráficos
+# Cálculo de Pi por Método de Monte Carlo Paralelo e Sequencial
 
 Este projeto calcula o valor de Pi usando um método Paralelo e Sequencial e plota gráficos para visualizar o tempo de execução e o valor de Pi em função do número de amostras.
 
